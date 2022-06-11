@@ -1,0 +1,3 @@
+- 👋 Hi I am Talha Kuzucuoğlu, a Sophomore Electrical Engineering student at METU
+- 👀 I’m interested in Machine Learning and AI 
+- 🌱 I’m currently learning advanced Python
