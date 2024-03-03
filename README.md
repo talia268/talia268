@@ -1,3 +1,3 @@
-- 👋 Hi I am Talha Kuzucuoğlu, a Junior Electrical Engineering student at METU
+- 👋 Hi I am Talha Kuzucuoğlu, a Senior Electrical Engineering student at METU
 - 👀 I’m interested in Machine Learning and AI 
 - 🌱 I’m currently learning Python and SQL
